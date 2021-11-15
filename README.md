@@ -1,11 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Shiladitya</h1>
 
 
-## 📈 GitHub Stats
-<div>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=shiladityab24&show_icons=true&theme=vue" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiladityab24&layout=compact&show_icons=true&theme=vue" />
-</div>
+
 
 <!--
 **shiladityab24/shiladityab24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
